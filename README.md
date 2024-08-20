@@ -122,4 +122,4 @@ This project is a full-stack web application...
 
 ## Documentation
 
-For AWS Cloud architecture, please refer to the [PDF diagram](docs/documentation.pdf).
+For AWS Cloud architecture, please refer to the [PDF diagram](docs/architecture.pdf).
